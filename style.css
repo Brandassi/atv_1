@@ -1,39 +1,31 @@
 .festival1 {
     width: 200px;
-    height: 150px;
-    margin: 10px;
-    padding: 15px;
-    text-align: center;
-    background-color: #FF5733;
-    display: inline-block;
+    height: 100px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid red;
 }
 
 .festival2 {
     width: 250px;
-    height: 180px;
-    margin: 10px;
+    height: 120px;
+    margin: 20px;
     padding: 15px;
-    text-align: center;
-    background-color: #33FF57;
-    display: inline-block;
+    border: 2px solid blue;
 }
 
 .festival3 {
-    width: 200px;
-    height: 150px;
-    margin: 10px;
-    padding: 15px;
-    text-align: center;
-    background-color: #5733FF;
-    display: flex;
+    width: 180px;
+    height: 80px;
+    margin: 20px;
+    padding: 12px;
+    border: 2px solid green;
 }
 
 .festival4 {
-    width: 250px;
-    height: 180px;
-    margin: 10px;
-    padding: 15px;
-    text-align: center;
-    background-color: #FFFF33;
-    display: flex;
+    width: 300px;
+    height: 150px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid purple;
 }

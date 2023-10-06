@@ -1,12 +1,11 @@
-.festival1{
-width: 200px;
-height: 150px;
-margin: 10px;
-padding: 15px;
-text-align: center;
-background-color: #FF5733;
-display: inline-block;
-
+.festival1 {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    background-color: #FF5733;
+    display: inline-block;
 }
 
 .festival2 {
@@ -26,15 +25,15 @@ display: inline-block;
     padding: 15px;
     text-align: center;
     background-color: #5733FF;
-    display: inline-block;
+    display: flex;
 }
 
-.festival4{
+.festival4 {
     width: 250px;
     height: 180px;
     margin: 10px;
     padding: 15px;
     text-align: center;
     background-color: #FFFF33;
-    display: inline-block;
+    display: flex;
 }
